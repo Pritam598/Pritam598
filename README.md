@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Booting+System...;Initializing+AI+Core...;Loading+Modules...;Authorizing+User...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Booting+Neural+System...;Initializing+Core+Modules...;Injecting+AI+Protocols...;Bypassing+Limitations...;Access+Granted+%E2%9C%85;Welcome+Operator+Pritam" />
 </p>
 
 <p align="center">
@@ -8,68 +8,112 @@
 
 ---
 
-```bash id="c9m0w3"
-┌──(root㉿system)-[~/core]
-└─$ boot_sequence --init
+```bash id="k0g6l8"
+┌──(root㉿neural-core)-[~/system]
+└─$ ./initialize --mode=advanced
 
-[✔] Kernel loaded
-[✔] AI modules initialized
-[✔] Security layer active
-[✔] Access granted
+[✔] Neural engine online
+[✔] AI protocols injected
+[✔] Security layer hardened
+[✔] Access granted to operator
 ```
 
 ---
 
 <h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
-<p align="center">🚀 AI Developer | ⚙️ Automation Engineer | 🛡️ Security Learner</p>
+<p align="center">🧠 AI Architect | ⚙️ Automation Engineer | 🛡️ Cyber Systems Learner</p>
 
 ---
 
-## 🧠 SYSTEM CORE
+## 🧠 CORE IDENTITY
 
-```yaml id="j3v4nt"
-user: pritam_mondal
-role: AI Developer
-focus: AI + Automation + Cybersecurity
-status: ONLINE 🟢
+```yaml id="0a4h5x"
+alias: pritam_mondal
+designation: AI Architect
+specialization: Intelligent Systems + Automation + Cybersecurity
+status: ACTIVE 🟢
+mode: BUILDING | LEARNING | SCALING
+```
+
+---
+
+## 🧬 SYSTEM PROFILE
+
+```js id="9qk8r4"
+const operator = {
+  codename: "Pritam",
+  role: "AI System Builder",
+  mindset: "Problem Solver",
+  stack: ["Python", "JavaScript", "C", "HTML", "CSS"],
+  domains: ["AI", "Automation", "Cybersecurity"],
+  tools: {
+    dev: ["VS Code", "GitHub"],
+    system: ["Linux"]
+  }
+};
 ```
 
 ---
 
 ## 🚀 DEPLOYED SYSTEMS
 
-### 🤖 AI Chatbot (Ollama)
+### 🤖 Neural Chatbot Engine
 
-> Local AI system running offline
-> ⚡ Fast | 🔒 Private
-
----
-
-### 🛒 E-commerce Platform
-
-> Product selling system
-> 🛍 UI + workflow
+> Offline AI system powered by Ollama
+> ⚡ Low latency | 🔒 Data sovereignty
 
 ---
 
-### 🎮 Bounce Tale Engine
+### 🛒 Commerce Automation System
 
-> Browser game system
-> 🎯 JS-based gameplay
-
----
-
-### 🛡️ Security Toolkit
-
-> Ethical hacking utilities
-> ⚠️ Educational use only
+> Product distribution interface
+> 🛍 Dynamic UI + transactional flow
 
 ---
 
-## ⚙️ TECH STACK
+### 🎮 Interactive Game Engine
+
+> Browser-based logic engine
+> 🎯 Built with JavaScript runtime
+
+---
+
+### 🛡️ Cybersecurity Toolkit
+
+> Security testing & exploration utilities
+> ⚠️ Strictly for ethical operations
+
+---
+
+## ⚙️ TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css,git,github,vscode,linux&perline=9" />
+</p>
+
+---
+
+## 🛠️ SYSTEM CAPABILITIES
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_SYSTEMS-39FF14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMATION_LOGIC-39FF14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CYBER_SECURITY-39FF14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROBLEM_SOLVER-39FF14?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 OPERATOR PHILOSOPHY
+
+<p align="center">
+  <i>
+  “First, solve the problem. Then, write the code.”
+  </i>
+</p>
+
+<p align="center">
+  — John Johnson
 </p>
 
 ---
@@ -83,10 +127,10 @@ status: ONLINE 🟢
 
 ---
 
-```bash id="wjkn3m"
+```bash id="v9rm3y"
 > system status: ONLINE 🟢
-> running modules: AI | automation | security
-> next objective: build scalable systems 🚀
+> modules: AI | automation | cyber-defense
+> directive: build → optimize → scale 🚀
 ```
 
 ---
