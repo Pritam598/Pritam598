@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+System...;Loading+Projects...;Initializing+AI+Core...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+System...;Loading+Projects...;Initializing+AI+Core...;Authorizing+User...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
 </p>
 
 ---
@@ -14,37 +14,37 @@
 ---
 
 <h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
-<p align="center">AI Developer | Automation Engineer | Builder</p>
+<p align="center">AI Developer | Automation Engineer | Cybersecurity Learner</p>
 
 ---
 
 ## 🚀 DEPLOYED SYSTEMS
 
-### 🛒 Product Selling Website
+### 🤖 Local AI Chatbot (Ollama)
 
-> Built a full e-commerce style platform
-> Includes product listing, UI, and basic workflow
-
----
-
-### 💻 Custom OS (Experimental)
-
-> Created a basic operating system concept
-> Explored system-level programming & structure
+> Offline AI chatbot built using Ollama
+> Focused on privacy, speed, and local processing
 
 ---
 
-### ⚙️ Automation Tools
+### 🛒 AI E-commerce Platform
 
-> Developed scripts/tools to automate repetitive tasks
-> Focus on efficiency & real-world use
+> Product selling website with UI and workflow system
+> Designed for real-world usage
 
 ---
 
-### 🤖 TGPT (Ollama-based AI)
+### 🎮 Bounce Tale Game
 
-> Built a local AI chatbot using Ollama
-> Focus on privacy + offline AI
+> Browser-based game using HTML, CSS, and JavaScript
+> Includes animations and interactive gameplay
+
+---
+
+### 🛡️ Ethical Security Toolkit
+
+> Collection of tools for ethical hacking & security testing
+> Focused on learning cybersecurity concepts
 
 ---
 
@@ -52,7 +52,7 @@
 
 ```yaml
 role: AI Developer
-focus: Automation + AI Systems
+focus: Automation + AI Systems + Security
 experience: Real Project Builder
 status: ACTIVE 🟢
 ```
@@ -96,11 +96,13 @@ status: ACTIVE 🟢
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
 
 ```bash
-> status: BUILDING REAL SYSTEMS
-> next goal: SCALE + MONETIZE 💰
+> system status: ONLINE 🟢
+> current focus: BUILDING REAL PROJECTS 🚀
+> next goal: MONETIZE SKILLS 💰
 ```
