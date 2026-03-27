@@ -93,34 +93,17 @@ const operator = {
 
 ---
 
-## 🧾 TECH LABELS
+## 🚀 SYSTEM ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AETHER_INFRA-0A0A0A?style=for-the-badge&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/CORE_MAINTAINER-0A0A0A?style=for-the-badge&color=222222" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/AFFINITY_DESIGNER-222324?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_CHATBOT-39FF14?style=for-the-badge&logo=OpenAI&logoColor=black" />
+  <img src="https://img.shields.io/badge/E--COMMERCE_SYSTEM-39FF14?style=for-the-badge&logo=shopify&logoColor=black" />
+  <img src="https://img.shields.io/badge/WEB_GAME_ENGINE-39FF14?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CUSTOM_OS-39FF14?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AUTOMATION_TOOLS-39FF14?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/CYBER_SECURITY_TOOLKIT-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </p>
 
----
-
-## 🛠️ SYSTEM CAPABILITIES
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_SYSTEMS-39FF14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AUTOMATION_LOGIC-39FF14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CYBER_SECURITY-39FF14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PROBLEM_SOLVER-39FF14?style=for-the-badge" />
-</p>
 
 ---
 
