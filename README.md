@@ -65,12 +65,6 @@ status: ACTIVE 🟢
 
 ---
 
-## 📊 GITHUB STATS
-
-<img src="..." />
-
----
-
 ## 🌐 CONNECT
 
 <p align="center">
