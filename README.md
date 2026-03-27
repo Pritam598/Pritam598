@@ -13,7 +13,7 @@
 ---
 
 <h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
-<p align="center">AI Developer | Automation Engineer | Cybersecurity Learner</p>
+<p align="center">🚀 AI Developer | ⚙️ Automation Engineer | 🛡️ Security Learner</p>
 
 ---
 
@@ -21,19 +21,29 @@
 
 ### 🤖 Local AI Chatbot (Ollama)
 
-Offline chatbot using Ollama (local AI)
+> Offline AI chatbot built using Ollama
+> ⚡ Runs locally | 🔒 Privacy focused
+
+---
 
 ### 🛒 E-commerce Website
 
-Product selling website with UI
+> Product selling platform
+> 🛍 UI + product workflow system
+
+---
 
 ### 🎮 Bounce Tale Game
 
-Web-based game using HTML, CSS, JS
+> Web-based game
+> 🎯 Built with HTML, CSS, JS
+
+---
 
 ### 🛡️ Ethical Security Toolkit
 
-Cybersecurity learning tools
+> Cybersecurity learning tools
+> ⚠️ For ethical use only
 
 ---
 
@@ -42,7 +52,7 @@ Cybersecurity learning tools
 ```yaml
 role: AI Developer
 focus: AI + Automation + Security
-status: ACTIVE
+status: ACTIVE 🟢
 ```
 
 ---
@@ -58,7 +68,7 @@ status: ACTIVE
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -73,6 +83,7 @@ status: ACTIVE
 ---
 
 ```bash
-> status: ONLINE
-> building projects...
+> system status: ONLINE 🟢
+> building real projects...
+> next goal: monetize skills 💰
 ```
