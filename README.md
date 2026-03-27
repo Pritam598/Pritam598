@@ -4,6 +4,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39FF14&height=30"/>
+
 ```bash
 ┌──(root㉿system)-[~/core]
 └─$ boot_sequence --init
