@@ -113,7 +113,7 @@ const operator = {
 </p>
 
 <p align="center">
-  — John Johnson
+  — No One
 </p>
 
 ---
