@@ -22,12 +22,12 @@
 
 <!-- 🔥 Animated Name -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=35&center=true&vCenter=true&width=700&lines=PRITAM+MONDAL;AI+ARCHITECT;AUTOMATION+ENGINEER;CYBER+SYSTEMS" />
-</p>
+<h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
 
 <p align="center">
-  🚀 AI Architect | ⚙️ Automation Engineer | 🛡️ Cyber Systems
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=22&center=true&vCenter=true&width=600&lines=AI+Architect;Automation+Engineer;Cyber+Systems;Building+Real+Projects" />
+</p>
+
 </p>
 
 <br>
