@@ -30,21 +30,18 @@
 ### 🛒 AI E-commerce Platform
 
 > Product selling website with UI and workflow system
-> Designed for real-world usage
 
 ---
 
 ### 🎮 Bounce Tale Game
 
 > Browser-based game using HTML, CSS, and JavaScript
-> Includes animations and interactive gameplay
 
 ---
 
 ### 🛡️ Ethical Security Toolkit
 
-> Collection of tools for ethical hacking & security testing
-> Focused on learning cybersecurity concepts
+> Tools for ethical hacking & security testing (educational use only)
 
 ---
 
@@ -52,7 +49,7 @@
 
 ```yaml
 role: AI Developer
-focus: Automation + AI Systems + Security
+focus: Automation + AI + Security
 experience: Real Project Builder
 status: ACTIVE 🟢
 ```
@@ -79,7 +76,7 @@ status: ACTIVE 🟢
 ## 🏆 SYSTEM REWARDS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
