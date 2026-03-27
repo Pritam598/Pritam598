@@ -1,33 +1,44 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Booting+Neural+System...;Initializing+Core+Modules...;Injecting+AI+Protocols...;Bypassing+Limitations...;Access+Granted+%E2%9C%85;Welcome+Operator+Pritam" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+Neural+System...;Initializing+Core+Modules...;Injecting+AI+Protocols...;Access+Granted+%E2%9C%85;Welcome+Operator+Pritam" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39FF14&height=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1f1f1f&height=40"/>
 </p>
 
 ---
 
-```bash id="k0g6l8"
+```bash id="n8mg22"
 ┌──(root㉿neural-core)-[~/system]
 └─$ ./initialize --mode=advanced
 
 [✔] Neural engine online
-[✔] AI protocols injected
-[✔] Security layer hardened
-[✔] Access granted to operator
+[✔] AI modules loaded
+[✔] Security layer active
+[✔] Access granted
 ```
 
 ---
 
 <h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
-<p align="center">🧠 AI Architect | ⚙️ Automation Engineer | 🛡️ Cyber Systems Learner</p>
+
+<p align="center">
+  🚀 AI Architect | ⚙️ Automation Engineer | 🛡️ Cyber Systems
+</p>
+
+<p align="center">⚡ <b style="color:#39FF14">SYSTEM ONLINE</b> ⚡</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=18&center=true&vCenter=true&width=600&lines=AI+Systems;Automation+Logic;Cyber+Security;Building+Real+Tools" />
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ---
 
 ## 🧠 CORE IDENTITY
 
-```yaml id="0a4h5x"
+```yaml id="xw1xg5"
 alias: pritam_mondal
 designation: AI Architect
 specialization: Intelligent Systems + Automation + Cybersecurity
@@ -35,11 +46,13 @@ status: ACTIVE 🟢
 mode: BUILDING | LEARNING | SCALING
 ```
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ---
 
 ## 🧬 SYSTEM PROFILE
 
-```js id="9qk8r4"
+```js id="8r7u3r"
 const operator = {
   codename: "Pritam",
   role: "AI System Builder",
@@ -52,6 +65,8 @@ const operator = {
   }
 };
 ```
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ---
 
@@ -73,15 +88,17 @@ const operator = {
 
 ### 🎮 Interactive Game Engine
 
-> Browser-based logic engine
-> 🎯 Built with JavaScript runtime
+> Browser-based logic system
+> 🎯 JavaScript runtime
 
 ---
 
 ### 🛡️ Cybersecurity Toolkit
 
 > Security testing & exploration utilities
-> ⚠️ Strictly for ethical operations
+> ⚠️ Ethical usage only
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ---
 
@@ -118,6 +135,8 @@ const operator = {
   <img src="https://img.shields.io/badge/CYBER_SECURITY-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ---
 
 ## 🧠 OPERATOR PHILOSOPHY
@@ -129,21 +148,23 @@ const operator = {
 </p>
 
 <p align="center">
-  — No One
+  — John Johnson
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ---
 
 ## 🌐 NETWORK ACCESS
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-```bash id="v9rm3y"
+```bash id="m6x2hw"
 > system status: ONLINE 🟢
 > modules: AI | automation | cyber-defense
 > directive: build → optimize → scale 🚀
@@ -152,5 +173,5 @@ const operator = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=100&section=footer"/>
+  <sub>⚡ Built with focus. Evolving with systems.</sub>
 </p>
