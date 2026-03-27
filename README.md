@@ -1,33 +1,54 @@
+
+<h1 align="center">Hi 👋, I'm Pritam Mondal</h1>
+<h3 align="center">🚀 Future AI Developer | Learning Everyday</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Future+AI+Developer;Learning+Coding+Daily;Building+My+Career" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Automation+Builder;Future+Engineer;Learning+Daily" />
 </p>
-
-# 👋 Hi, I'm Pritam Mondal
-
-🚀 Beginner Developer | Learning AI & Automation
 
 ---
 
 ## 🧠 About Me
 
-* 🌱 Currently learning coding
-* 🤖 Interested in AI & automation
-* 🎯 Goal: Earn money using skills
+* 🌱 I’m currently learning **Coding & AI**
+* 🤖 Interested in **Automation & Smart Systems**
+* 💰 Goal: **Earn money using tech skills**
+* ⚡ Fun fact: I started from ZERO
 
 ---
 
-## 🛠 Skills (Learning)
+## 🛠 Tech Stack
 
-* 💻 C Programming
-* 🌐 HTML & CSS
-* 🧠 Python (Beginner)
-
----
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-⭐ *Trying to become better every day*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam598&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+⭐ *"From beginner to pro — step by step."*
