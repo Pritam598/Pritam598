@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+Neural+System...;Initializing+Core+Modules...;Injecting+AI+Protocols...;Access+Granted+%E2%9C%85;Welcome+Operator+Pritam" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Booting+Neural+System...;Initializing+Core+Modules...;Injecting+AI+Protocols...;Access+Granted+%E2%9C%85" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <br>
 
-```bash
+```bash id="4x4l6y"
 ┌──(root㉿neural-core)-[~/system]
 └─$ ./initialize --mode=advanced
 
@@ -20,7 +20,11 @@
 
 <br>
 
-<h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
+<!-- 🔥 Animated Name -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=35&center=true&vCenter=true&width=700&lines=PRITAM+MONDAL;AI+ARCHITECT;AUTOMATION+ENGINEER;CYBER+SYSTEMS" />
+</p>
 
 <p align="center">
   🚀 AI Architect | ⚙️ Automation Engineer | 🛡️ Cyber Systems
@@ -30,7 +34,7 @@
 
 ## 🧠 CORE IDENTITY
 
-```yaml
+```yaml id="uv85f2"
 alias: pritam_mondal
 designation: AI Architect
 focus: AI + Automation + Cybersecurity
@@ -41,7 +45,7 @@ status: ACTIVE 🟢
 
 ## 🧬 SYSTEM PROFILE
 
-```js
+```js id="ecax78"
 const operator = {
   codename: "Pritam",
   role: "AI System Builder",
@@ -135,7 +139,7 @@ const operator = {
 
 <br>
 
-```bash
+```bash id="c4h6w0"
 > system status: ONLINE 🟢
 > modules: AI | automation | cyber-defense
 > directive: build → optimize → scale 🚀
