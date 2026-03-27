@@ -1,30 +1,38 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=800&lines=PRITAM+MONDAL;AI+DEVELOPER;AUTOMATION+ENGINEER;BUILDING+THE+FUTURE" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=45&center=true&vCenter=true&width=1000&lines=PRITAM+MONDAL;SYSTEM+INITIALIZING...;AI+ENGINEER;AUTOMATION+SPECIALIST;ACCESS+GRANTED" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=150&section=header"/>
 </p>
 
 ---
 
+<img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark" />
+
+---
+
 ```bash
-> booting system...
-> loading AI modules...
-> authentication success ✅
-> welcome: pritam_mondal
+┌──(root㉿system)-[~/AI-core]
+└─$ boot_sequence --user pritam_mondal
+
+[✔] Loading neural modules...
+[✔] Connecting to automation engine...
+[✔] Initializing intelligence layer...
+[✔] Access Granted 🟢
 ```
 
 ---
 
-## 🧠 SYSTEM INFO
+## 🧠 SYSTEM CORE
 
 ```yaml
-name: Pritam Mondal
-role: AI Developer
+user: pritam_mondal
+role: AI Engineer
 focus: Automation & Smart Systems
-goal: Build income using technology
-status: Active 🟢
+learning: ACTIVE
+status: ONLINE 🟢
+mission: Build real-world tech & income
 ```
 
 ---
@@ -37,19 +45,19 @@ status: Active 🟢
 
 ---
 
-## 📊 SYSTEM STATS
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=chartreuse-dark" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam598&theme=chartreuse-dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam598&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🏆 SYSTEM REWARDS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=matrix&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -65,20 +73,21 @@ status: Active 🟢
 ## 🌐 CONNECT TERMINAL
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
 
 ```bash
 > system status: ONLINE 🟢
-> next mission: BUILD PROJECTS 🚀
-> mode: FOCUSED
+> current focus: BUILDING PROJECTS 🚀
+> next upgrade: AI TOOLS + AUTOMATION 💻
+> mode: DEEP WORK
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=150&section=footer"/>
 </p>
