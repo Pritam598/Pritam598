@@ -93,6 +93,26 @@ const operator = {
 
 ---
 
+## 🧾 TECH LABELS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AETHER_INFRA-0A0A0A?style=for-the-badge&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/CORE_MAINTAINER-0A0A0A?style=for-the-badge&color=222222" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/AFFINITY_DESIGNER-222324?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
 ## 🛠️ SYSTEM CAPABILITIES
 
 <p align="center">
