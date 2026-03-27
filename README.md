@@ -68,7 +68,7 @@ status: ACTIVE 🟢
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ---
