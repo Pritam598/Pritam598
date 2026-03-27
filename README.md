@@ -26,7 +26,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam598&theme=tokyonight" />
@@ -35,9 +34,8 @@
 ---
 
 ## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritam598&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
@@ -52,3 +50,8 @@
 ---
 
 ⭐ *"From beginner to pro — step by step."*
+
+
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Pritam598/Pritam598/blob/output/github-contribution-grid-snake.svg)
