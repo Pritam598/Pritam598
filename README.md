@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Future+AI+Developer;Learning+Coding+Daily;Building+My+Career" />
+</p>
+
 # 👋 Hi, I'm Pritam Mondal
 
 🚀 Beginner Developer | Learning AI & Automation
@@ -22,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Pritam598&show_icons=true&theme=tokyonight" />
 
 ---
 
