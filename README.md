@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Projects...;Access+Granted;Welcome+Pritam+Mondal" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+System...;Initializing+AI+Core...;Loading+Modules...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
 </p>
 
 ---
 
 ```bash
-[✔] System Initialized
-[✔] Projects Loaded
-[✔] Access Granted
+┌──(root㉿system)-[~/core]
+└─$ boot_sequence --init
+
+[✔] Kernel loaded
+[✔] AI modules initialized
+[✔] Security layer active
+[✔] Access granted
 ```
 
 ---
@@ -17,65 +21,66 @@
 
 ---
 
-## 🚀 PROJECTS
-
-### 🤖 Local AI Chatbot (Ollama)
-
-> Offline AI chatbot built using Ollama
-> ⚡ Runs locally | 🔒 Privacy focused
-
----
-
-### 🛒 E-commerce Website
-
-> Product selling platform
-> 🛍 UI + product workflow system
-
----
-
-### 🎮 Bounce Tale Game
-
-> Web-based game
-> 🎯 Built with HTML, CSS, JS
-
----
-
-### 🛡️ Ethical Security Toolkit
-
-> Cybersecurity learning tools
-> ⚠️ For ethical use only
-
----
-
 ## 🧠 SYSTEM CORE
 
 ```yaml
+user: pritam_mondal
 role: AI Developer
-focus: AI + Automation + Security
-status: ACTIVE 🟢
+focus: AI + Automation + Cybersecurity
+status: ONLINE 🟢
 ```
+
+---
+
+## 🚀 DEPLOYED SYSTEMS
+
+### 🤖 AI Chatbot (Ollama)
+
+> Local AI system running offline
+> ⚡ Fast | 🔒 Private
+
+---
+
+### 🛒 E-commerce Platform
+
+> Product selling system
+> 🛍 UI + workflow
+
+---
+
+### 🎮 Bounce Tale Engine
+
+> Browser game system
+> 🎯 JS-based gameplay
+
+---
+
+### 🛡️ Security Toolkit
+
+> Ethical hacking utilities
+> ⚠️ Educational use only
 
 ---
 
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## 🌐 CONNECT
+## 🌐 NETWORK ACCESS
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
 
 ```bash
 > system status: ONLINE 🟢
-> building real projects...
-> next goal: monetize skills 💰
+> running modules: AI | automation | security
+> next objective: build scalable systems 🚀
 ```
