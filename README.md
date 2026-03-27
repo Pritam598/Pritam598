@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+System...;Initializing+AI+Core...;Loading+Modules...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=30&center=true&vCenter=true&width=900&lines=Booting+System...;Initializing+AI+Core...;Loading+Modules...;Authorizing+User...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39FF14&height=40"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39FF14&height=30"/>
-
-```bash
+```bash id="c9m0w3"
 ┌──(root㉿system)-[~/core]
 └─$ boot_sequence --init
 
@@ -25,7 +27,7 @@
 
 ## 🧠 SYSTEM CORE
 
-```yaml
+```yaml id="j3v4nt"
 user: pritam_mondal
 role: AI Developer
 focus: AI + Automation + Cybersecurity
@@ -81,8 +83,14 @@ status: ONLINE 🟢
 
 ---
 
-```bash
+```bash id="wjkn3m"
 > system status: ONLINE 🟢
 > running modules: AI | automation | security
 > next objective: build scalable systems 🚀
 ```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=100&section=footer"/>
+</p>
