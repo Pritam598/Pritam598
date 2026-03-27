@@ -1,38 +1,60 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=45&center=true&vCenter=true&width=1000&lines=PRITAM+MONDAL;SYSTEM+INITIALIZING...;AI+ENGINEER;AUTOMATION+SPECIALIST;ACCESS+GRANTED" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=150&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=900&lines=Booting+System...;Loading+Projects...;Initializing+AI+Core...;Access+Granted+%E2%9C%85;Welcome+Pritam+Mondal" />
 </p>
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark" />
+```bash
+[✔] System Initialized
+[✔] Projects Loaded
+[✔] AI Modules Active
+[✔] Access Granted
+```
 
 ---
 
-```bash
-┌──(root㉿system)-[~/AI-core]
-└─$ boot_sequence --user pritam_mondal
+<h1 align="center">⚡ PRITAM MONDAL ⚡</h1>
+<p align="center">AI Developer | Automation Engineer | Builder</p>
 
-[✔] Loading neural modules...
-[✔] Connecting to automation engine...
-[✔] Initializing intelligence layer...
-[✔] Access Granted 🟢
-```
+---
+
+## 🚀 DEPLOYED SYSTEMS
+
+### 🛒 Product Selling Website
+
+> Built a full e-commerce style platform
+> Includes product listing, UI, and basic workflow
+
+---
+
+### 💻 Custom OS (Experimental)
+
+> Created a basic operating system concept
+> Explored system-level programming & structure
+
+---
+
+### ⚙️ Automation Tools
+
+> Developed scripts/tools to automate repetitive tasks
+> Focus on efficiency & real-world use
+
+---
+
+### 🤖 TGPT (Ollama-based AI)
+
+> Built a local AI chatbot using Ollama
+> Focus on privacy + offline AI
 
 ---
 
 ## 🧠 SYSTEM CORE
 
 ```yaml
-user: pritam_mondal
-role: AI Engineer
-focus: Automation & Smart Systems
-learning: ACTIVE
-status: ONLINE 🟢
-mission: Build real-world tech & income
+role: AI Developer
+focus: Automation + AI Systems
+experience: Real Project Builder
+status: ACTIVE 🟢
 ```
 
 ---
@@ -40,7 +62,7 @@ mission: Build real-world tech & income
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -74,20 +96,11 @@ mission: Build real-world tech & income
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
 
 ```bash
-> system status: ONLINE 🟢
-> current focus: BUILDING PROJECTS 🚀
-> next upgrade: AI TOOLS + AUTOMATION 💻
-> mode: DEEP WORK
+> status: BUILDING REAL SYSTEMS
+> next goal: SCALE + MONETIZE 💰
 ```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=150&section=footer"/>
-</p>
